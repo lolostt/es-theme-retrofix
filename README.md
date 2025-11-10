@@ -2,7 +2,7 @@ Retrofix Theme (custom by lolostt)
 ====================================================
 This is a fork of https://github.com/20GotoTen/es-theme-retrofix.
 
-I modified it to my liking by changing the backgrounds to console images and adding a few extra systems.
+I modified it to my liking by changing *some* backgrounds to console images and adding a few extra systems.
 
 Licence
 -------
