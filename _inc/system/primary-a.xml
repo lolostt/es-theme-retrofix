@@ -41,6 +41,7 @@
 			<path ifSubset="buttonSet:Vectrex">./../../vectrex/_inc/a-button.png</path>
 
 			<path ifSubset="artworkregion:US">./../../${system.theme}/_inc/a-button-us.png</path>
+			<path ifSubset="artworkregion:EU">./../../${system.theme}/_inc/a-button-eu.png</path>
 			<zIndex>100</zIndex>
 		</image>
 </view>
