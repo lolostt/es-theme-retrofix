@@ -33,3 +33,10 @@ contributions under the same license as the original.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally
 restrict others from doing anything the license permits.
+
+---
+
+<p>
+  <a href="https://github.com/lolostt"><img src="https://github.com/user-attachments/assets/85619289-29ae-406d-badb-23e38b30bebe" alt="Sleeping Coconut" width="32" height="32" align="absmiddle"></a>
+  · <a href="https://sleepingcoconut.com">www.sleepingcoconut.com</a> · 2025
+</p>
